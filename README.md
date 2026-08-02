@@ -94,68 +94,58 @@ I enjoy solving real-world problems through technology, learning modern developm
 
 ## 📂 Featured Projects
 
-### 🏡  Lodge Website *(In Progress)*
-
-A responsive website for an aged care facility focused on usability, accessibility, and modern front-end development.
-
-**Technologies**
-
-* HTML
-* CSS
-* Bootstrap
-* JavaScript
-
----
-
 ### 🥁 JavaScript Drum Kit
 
-An interactive browser-based drum kit demonstrating JavaScript event handling and DOM manipulation.
+An interactive drum kit that demonstrates JavaScript event handling, keyboard interactions, and DOM manipulation.
 
-**Technologies**
+**Technologies:** HTML • CSS • JavaScript
 
-* HTML
-* CSS
-* JavaScript
+🔗 **Repository:** https://github.com/rifua/javascript-drum-kit
+🌐 **Live Demo:** https://rifua.github.io/javascript-drum-kit/
 
 ---
 
 ### 🎲 Dice Duel
 
-A browser-based multiplayer dice game demonstrating JavaScript fundamentals, random number generation, and dynamic DOM updates.
+A browser-based dice game that uses JavaScript to generate random outcomes and dynamically update the user interface.
 
-**Technologies**
+**Technologies:** HTML • CSS • JavaScript
 
-* HTML
-* CSS
-* JavaScript
+🔗 **Repository:** https://github.com/rifua/Dice-Duel
+🌐 **Live Demo:** https://rifua.github.io/Dice-Duel/
 
 ---
 
 ### 🔐 Elastic SIEM Home Lab
 
-A cybersecurity home lab demonstrating the deployment and configuration of Elastic SIEM.
+A practical cybersecurity home lab demonstrating Elastic SIEM deployment, log collection, dashboard creation, and security monitoring.
 
-**Highlights**
+**Technologies:** Elastic SIEM • Kibana • Kali Linux • Windows
 
-* Log Collection
-* Kibana Dashboards
-* Detection Rules
-* Security Monitoring
+🔗 **Repository:** https://github.com/rifua/Home-Lab-Elastic-SIEM
 
 ---
 
 ### 🛡️ Pi-hole Home Lab
 
-A home lab project demonstrating DNS filtering, network visibility, and advertisement blocking.
+A home lab project demonstrating DNS filtering, network monitoring, and network-wide advertisement blocking using Pi-hole.
 
-**Highlights**
+**Technologies:** Pi-hole • Linux • VirtualBox
 
-* DNS Monitoring
-* Domain Filtering
-* Network-wide Ad Blocking
-* Network Visibility
+🔗 **Repository:** https://github.com/rifua/Home-Lab-Pi-hole-Installation-and-Management
 
 ---
+### 🏡 Ferguson Lodge Website *(In Progress)*
+
+A responsive website for an aged care facility focused on accessibility, usability, and modern front-end design.
+
+**Technologies:** HTML • CSS • Bootstrap • JavaScript
+
+🔗 **Repository:** *Coming Soon*
+🌐 **Live Demo:** *Coming Soon*
+
+---
+
 
 ## 💼 Professional Background
 
