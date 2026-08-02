@@ -1,48 +1,195 @@
-# Hello, I'm Ashray Rimal!
+# 👋 Hi, I'm Ashray Rimal
 
-<a href="https://www.linkedin.com/in/ashray-rimal-798104200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### Aspiring Full-Stack Web Developer • Cybersecurity Professional
 
-[Brief Introduction]
+📍 Sydney, Australia
 
-I am a Cyber Security Analyst with 2+ years of experience and a profound interest in technology and a dedication to solving complex problems.
+> **Building secure, modern web applications through practical projects and continuous learning.**
+
+---
+
+## 👨‍💻 About Me
+
+I'm an aspiring Full-Stack Web Developer with a professional background in cybersecurity and a passion for building secure, scalable, and user-friendly web applications.
+
+After completing my Master's degree, I decided to transition back into software development and am currently strengthening my full-stack development skills through hands-on projects.
+
+I enjoy solving real-world problems through technology, learning modern development practices, and continuously improving through practical experience.
+
+---
+
+## 🚀 Currently Building & Learning
+
+* 🌐 Full-Stack Web Development
+* ⚛️ React
+* 🟢 Node.js
+* 🚂 Express.js
+* 🐘 PostgreSQL
+* 🔗 REST APIs
+---
+
+## 💻 Technical Skills
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,react,postgres,git,github,vscode,npm" />
+</p>
+
+### Core Skills
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript (ES6+)
+- Git & GitHub
+- Responsive Web Design
+
+### Currently Learning
+
+- Node.js
+- Express.js
+- React
+- PostgreSQL
+- PHP
+- WordPress
+- REST APIs
+---
+
+### 🔐 Cybersecurity
+
+**Skills**
+
+* Security Operations Centre (SOC)
+* SIEM Monitoring
+* Threat Detection
+* Incident Response
+* Security Event Analysis
+* Vulnerability Assessment
+* Log Analysis
+* Phishing Investigation
+* Network Security
+* Security Awareness
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+* AWS Cloud
+* Elastic SIEM
+* Kali Linux
+* VirtualBox
+* Pi-hole
+
+---
+
+## 🏆 Certifications
+
+* 🛡️ Blue Team Level 1 (BTL1)
+* 🛡️ EC-Council Certified Ethical Hacker (CEH)
+* 🔐 Google Cybersecurity Professional Certificate
+* 🌐 Cisco Ethical Hacker
+
+---
+
+## 📂 Featured Projects
+
+### 🏡  Lodge Website *(In Progress)*
+
+A responsive website for an aged care facility focused on usability, accessibility, and modern front-end development.
+
+**Technologies**
+
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+
+---
+
+### 🥁 JavaScript Drum Kit
+
+An interactive browser-based drum kit demonstrating JavaScript event handling and DOM manipulation.
+
+**Technologies**
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+### 🎲 Dice Duel
+
+A browser-based multiplayer dice game demonstrating JavaScript fundamentals, random number generation, and dynamic DOM updates.
+
+**Technologies**
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+### 🔐 Elastic SIEM Home Lab
+
+A cybersecurity home lab demonstrating the deployment and configuration of Elastic SIEM.
+
+**Highlights**
+
+* Log Collection
+* Kibana Dashboards
+* Detection Rules
+* Security Monitoring
+
+---
+
+### 🛡️ Pi-hole Home Lab
+
+A home lab project demonstrating DNS filtering, network visibility, and advertisement blocking.
+
+**Highlights**
+
+* DNS Monitoring
+* Domain Filtering
+* Network-wide Ad Blocking
+* Network Visibility
+
+---
+
+## 💼 Professional Background
+
+My professional background in cybersecurity has given me experience in:
+
+* Security Monitoring
+* Incident Analysis
+* Vulnerability Assessment
+* SIEM Administration
+* Threat Detection
+* Log Analysis
+* Security Awareness
+
+As I continue my software development journey, I aim to combine secure coding principles with modern web technologies to build reliable, secure, and user-focused applications.
+
+---
 
 
-## Work Authorization: 
+## 📊 GitHub Stats
 
-<b>Authorized to work full-time in Australia (Student Visa in relation to Master by Research) </b><br>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rifua&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifua&layout=compact&hide_border=true" />
+</p>
 
- 
-## Objective
+---
 
-My interest in computer science drove me towards working in cybersecurity. Now, I am eager to join a Security Operations Center (SOC) team as a Tier 1 Analyst. 
+## 🤝 Connect With Me
 
-## Skills
+* 💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ashray-rimal-798104200/
+* 📧 **Email:** ASHRAY.RIM@GMAIL.COM
 
-| Skills                                         |
-|-----------------------------------------------|          
-| SIEM Implementation and Log Analysis          
-| Vulnerability Assessment
-| Incident Response
-| Phishing Email Analysis
-| Web-Based Intrusion Detection
-| Network Intrusion Analysis
-| Host-Based Intrusion Detection & Response
-| Security Awareness Training
-| Familiar with SIEM (SPLUNK, Elastic)   
-| Linux Command Line
-| Static Malware Alalysis      
-| Familiar with SQL, Python                  
+---
 
-
-
-## Certifications
-<div>
-<a href="https://aspen.eccouncil.org/verify"><img src="https://img.shields.io/badge/-CEH-EC1C24?style=for-the-badge&logo=EC-Council&logoColor=white" /> </a>
-<a href = "https://www.coursera.org/account/accomplishments/specialization/3CG5AHN6GJXF?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n" target="_blank"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> </a>
-<a href="https://www.credly.com/badges/937ee46f-0531-4959-9a63-dd495ec215db/linked_in_profile"><img src="https://img.shields.io/badge/-Cisco%20Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
- <p>CEH Candidate Number: ECC2834690751</p>
-</div>
-
-## Projects
-- <a href="https://github.com/rifua/Elastic-SIEM-Home-Lab">Elastic Stack SIEM Configuration & Management</a>
-- <a href="https://github.com/rifua/Home-Lab-Pi-hole-Installation-and-Management">Pi-hole-Installation-and-Management</a>
+<p align="center">
+<i>"Learning continuously • Building practical solutions • Writing clean code • Always improving."</i>
+</p>
