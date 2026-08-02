@@ -185,7 +185,7 @@ As I continue my software development journey, I aim to combine secure coding pr
 
 ## 🤝 Connect With Me
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ashray-rimal-798104200/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/ashray-rimal-798104200/
 * 📧 **Email:** ASHRAY.RIM@GMAIL.COM
 
 ---
