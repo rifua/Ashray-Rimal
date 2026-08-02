@@ -135,9 +135,9 @@ A home lab project demonstrating DNS filtering, network monitoring, and network-
 🔗 **Repository:** https://github.com/rifua/Home-Lab-Pi-hole-Installation-and-Management
 
 ---
-### 🏡 Ferguson Lodge Website *(In Progress)*
+### 🏡 Ferguson L Website *(In Progress)*
 
-A responsive website for an aged care facility focused on accessibility, usability, and modern front-end design.
+A responsive website for a disability care home focused on accessibility, usability, and modern front-end design.
 
 **Technologies:** HTML • CSS • Bootstrap • JavaScript
 
