@@ -173,16 +173,6 @@ As I continue my software development journey, I aim to combine secure coding pr
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rifua&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifua&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 * 💼 **LinkedIn:** https://www.linkedin.com/in/ashray-rimal-798104200/
