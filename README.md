@@ -104,8 +104,9 @@ An interactive memory game inspired by the classic Simon Game. Players must reme
 - JavaScript functions
 - Timers using `setTimeout()`
 - Audio and animation effects
----
 **Technologies:** HTML • CSS • JavaScript • jQuery
+  ---
+
 ### 🥁 JavaScript Drum Kit
 
 An interactive drum kit that demonstrates JavaScript event handling, keyboard interactions, and DOM manipulation.
