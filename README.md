@@ -104,7 +104,7 @@ An interactive memory game inspired by the classic Simon Game. Players must reme
 - JavaScript functions
 - Timers using `setTimeout()`
 - Audio and animation effects
-
+---
 **Technologies:** HTML • CSS • JavaScript • jQuery
 ### 🥁 JavaScript Drum Kit
 
