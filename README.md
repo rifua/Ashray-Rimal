@@ -105,6 +105,9 @@ An interactive memory game inspired by the classic Simon Game. Players must reme
 - Timers using `setTimeout()`
 - Audio and animation effects
 **Technologies:** HTML • CSS • JavaScript • jQuery
+
+  🔗 **Repository:** https://github.com/rifua/Simon-Game
+
   ---
 
 ### 🥁 JavaScript Drum Kit
