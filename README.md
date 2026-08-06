@@ -93,7 +93,19 @@ I enjoy solving real-world problems through technology, learning modern developm
 ---
 
 ## 📂 Featured Projects
+### 🎮 Simon Game
+An interactive memory game inspired by the classic Simon Game. Players must remember and repeat an increasingly long sequence of colours, with each successful round adding a new challenge.
 
+**Skills Demonstrated**
+- Event-driven programming
+- DOM manipulation with jQuery
+- Arrays and sequence comparison
+- Game state management
+- JavaScript functions
+- Timers using `setTimeout()`
+- Audio and animation effects
+
+**Technologies:** HTML • CSS • JavaScript • jQuery
 ### 🥁 JavaScript Drum Kit
 
 An interactive drum kit that demonstrates JavaScript event handling, keyboard interactions, and DOM manipulation.
