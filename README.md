@@ -107,6 +107,8 @@ An interactive memory game inspired by the classic Simon Game. Players must reme
 **Technologies:** HTML • CSS • JavaScript • jQuery
 
   🔗 **Repository:** https://github.com/rifua/Simon-Game
+  🌐 **Live Demo:**https://rifua.github.io/Simon-Game/
+  
 
   ---
 
