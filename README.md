@@ -91,7 +91,24 @@ I enjoy solving real-world problems through technology, learning modern developm
 * 🌐 Cisco Ethical Hacker
 
 ---
+### 🔳 QR Code Generator
 
+A command-line application built with Node.js that accepts a user-provided URL, generates a QR code image, and saves the original URL to a text file.
+
+**Skills Demonstrated**
+- Node.js application development
+- npm package management
+- ES Modules and `import`
+- Command-line user input with Inquirer
+- Working with JavaScript objects and returned values
+- File creation and writing with Node.js `fs`
+- Integrating third-party npm packages
+- Debugging Node.js applications
+
+**Technologies:** Node.js • JavaScript • Inquirer • qr-image
+
+🔗 **Repository:** https://github.com/rifua/qr-code-generator
+---
 ## 📂 Featured Projects
 ### 🎮 Simon Game
 An interactive memory game inspired by the classic Simon Game. Players must remember and repeat an increasingly long sequence of colours, with each successful round adding a new challenge.
@@ -151,16 +168,6 @@ A home lab project demonstrating DNS filtering, network monitoring, and network-
 **Technologies:** Pi-hole • Linux • VirtualBox
 
 🔗 **Repository:** https://github.com/rifua/Home-Lab-Pi-hole-Installation-and-Management
-
----
-### 🏡 Ferguson L Website *(In Progress)*
-
-A responsive website for a disability care home focused on accessibility, usability, and modern front-end design.
-
-**Technologies:** HTML • CSS • Bootstrap • JavaScript
-
-🔗 **Repository:** *Coming Soon*
-🌐 **Live Demo:** *Coming Soon*
 
 ---
 
